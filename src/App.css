@@ -26,7 +26,9 @@
   overflow: hidden;
   box-shadow: 0 20px 60px rgba(0,0,0,0.25);
 }
-
+.epr-header {
+  display: none !important;
+}
 /* ── Header ── */
 .chat-header {
   display: flex;
